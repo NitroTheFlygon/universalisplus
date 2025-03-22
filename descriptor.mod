@@ -1,0 +1,15 @@
+version="0.0.1"
+tags={
+	"Expansion"
+	"Gameplay"
+	"National Ideas"
+	"Religion"
+	"Historical"
+	"Alternative History"
+	"Balance"
+	"Missions And Decisions"
+	"New Nations"
+	"Map"
+}
+name="Universalis Plus"
+supported_version="v1.37.5.0"
