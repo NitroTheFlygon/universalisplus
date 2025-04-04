@@ -591,8 +591,6 @@
  KIT_ADJ:0 "Kitaran"
  WAD:0 "Wadai"
  WAD_ADJ:0 "Wadaian"
- ###CULTURES###
- tunjur:0 "Tunjur"
  ###MERCENARY COMPANIES###
  merc_eth_janissaries_company:0 "Ottoman Janissaries"
  merc_eth_musketeers_company:0 "Portuguese Musketeers"

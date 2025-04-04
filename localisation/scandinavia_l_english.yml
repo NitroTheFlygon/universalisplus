@@ -1875,7 +1875,7 @@
  teu_pru_warsaw_and_krakow_desc:0 "Poland has many wealthy cities with rich histories and excellent infrastructure. However, none of them can compare to their jewels of great cities: Krakow and Warsaw. Both are important centers of commerce and the seat of power for Poland and their subject Mazovia. We should conquer these cities in order to weaken Poland while strengthenening our own economy."
  teu_pru_conquer_poland_title:1 "[Root.GetPreviewColorTEU_PRU]Conquer Red Ruthenia[Root.GetPreviewColorTEU_PRU_end]"
  teu_pru_conquer_poland_desc:0 "We have to push further south in order to neutralize the Polish threat once and for all! Their last bastion is in the heretic lands of Red Ruthenia."
- teu_pru_conquer_poland_at:0 "This modifier gets removed should we ever demote the §YPolish§! culture."
+ teu_pru_conquer_poland_at:0 "This modifier gets removed should we ever demote the §YPolish§! ."
  teu_pru_conquer_poland_bt:0 "This modifier gets removed should we ever demote the §YRuthenian§! culture."
  teu_pru_take_over_moldavia_title:1 "[Root.GetPreviewColorTEU_PRU]Take over Moldavia[Root.GetPreviewColorTEU_PRU_end]"
  teu_pru_take_over_moldavia_desc:0 "The Moldavian lands are a fertile patch of land which is known for its wine production. It is also the access point for the Ottomans to Ruthenia. We should annex Moldavia in order to prevent the Turks from expanding into East Europe, and, of course, in order to get access to the wine."
@@ -3362,10 +3362,6 @@
  LTG_ADJ:0 "Latgalian"
  NORTH_SEA_EMPIRE:0 "North Sea Empire"
  NORTH_SEA_EMPIRE_ADJ:0 "Norse"
- ###CULTURES###
- baltic_german:0 "Balten"
- norse:0 "Norse"
- livonian:0 "Livonian"
  ###IMPERIAL INCIDENTS###
  incident_teutonic_order_wants_to_join:0 "The Teutonic Order and the Empire"
  incident_teutonic_order_wants_to_join_emperor_alert:0 "The [TEU.Monarch.GetTitle] of the [TEU.GetName] wishes to join the Holy Roman Empire."
