@@ -18,6 +18,11 @@ SMI = "countries/Sami.txt"
 KRL = "countries/Karelia.txt"
 ICE = "countries/Iceland.txt"
 
+OSW = "countries/Osel-Wiek.txt"
+DRP = "countries/Dorpat.txt"
+CUR = "countries/Curonia.txt"
+RVL = "countries/Reval.txt"
+
 #Balkans
 ACH	= "countries/PrincipalityOfAchaia.txt"
 ALB	= "countries/Albania.txt"

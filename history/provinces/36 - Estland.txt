@@ -1,9 +1,8 @@
 #Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
 
-owner = LIV
-controller = LIV
-add_core = LIV
-add_core = EST
+owner = RVL
+controller = RVL
+add_core = RVL
 culture = baltic_german
 religion = catholic
 hre = no

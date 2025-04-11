@@ -1399,3 +1399,12 @@
  TOR_ADJ:0 "Tortugan"
  MRK:0 "Marrakesh"
  MRK_ADJ:0 "Marrakesh"
+ 
+ OSW: "Ösel-Wiek"
+ OSW_ADJ: "Ösel-Wiek"
+ DRP: "Dorpat"
+ DRP_ADJ: "Dorpatian"
+ CUR: "Curonia"
+ CUR_ADJ: "Curonian"
+ RVL: "Reval"
+ RVL_ADJ: "Revalian"

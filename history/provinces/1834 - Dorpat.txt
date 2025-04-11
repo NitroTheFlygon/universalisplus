@@ -1,8 +1,8 @@
 #Dorpat
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = DRP
+controller = DRP
+add_core = DRP
 add_core = EST
 culture = voro
 religion = catholic

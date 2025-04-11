@@ -1,6 +1,6 @@
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = OSW
+controller = OSW
+add_core = OSW
 add_core = EST
 culture = estonian
 religion = catholic
