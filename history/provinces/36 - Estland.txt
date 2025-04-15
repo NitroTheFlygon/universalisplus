@@ -1,14 +1,13 @@
 #Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
 
-owner = LIV
-controller = LIV
-add_core = LIV
-add_core = EST
-culture = estonian
+owner = RVL
+controller = RVL
+add_core = RVL
+culture = baltic_german
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
+base_tax = 3
+base_production = 3
 trade_goods = grain
 base_manpower = 2
 capital = "Reval"

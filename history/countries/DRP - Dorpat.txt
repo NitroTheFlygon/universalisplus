@@ -1,0 +1,19 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+primary_culture = baltic_german
+religion = catholic
+technology_group = western
+capital = 1834
+
+
+1442.3.20 = {
+	monarch = {
+		name = "Bartholomäus Savijerwe"
+		birth_date = 1400.1.1
+		culture = estonian
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

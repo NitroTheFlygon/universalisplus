@@ -1,6 +1,5 @@
 ﻿l_english:
  # New Manchu culture
- manchu_new:0 "Manchu"
  manchu_culture_tt:0 "All §YJurchen§! provinces will adopt §YManchu§! culture"
  changbai_mountain:0 "Paektu Mountain"
  desc_changbai_mountain:0 "Paektu Mountain is a place of immense spiritual significance to the Jurchens and Koreans alike. Featuring heavily in the traditional legends of both peoples, the Mountain is a place of sublime beauty."
@@ -12,11 +11,6 @@
  chinese_culture_group_dominates_in_country:0 "One of the Chinese cultures is the §YDominant Culture§! in [Root.GetName]."
  sinicize_culture_ct:0 "All §Y[Root.Culture.GetName]§! provinces will be adopted into the §YChinese§! culture group."
  sinicize_mongols_ct:0 "All §YMongol§!, §YKorchin§!, §YKalkha§!, and §YOirat§! provinces will be adopted into the §YChinese§! culture group."
- vietnamese_new:1 "Sino-Vietnamese"
- korean_new:1 "Sino-Korean"
- tibetan_new:1 "Sino-Tibetan"
- altaic_new:0 "Sino-Altaic"
- zhuang_new:0 "Sino-Zhuang"
  # Manchu missions
  mch_great_wall_title:0 "Bypass the Great Wall"
  mch_great_wall_desc:0 "The Chinese Emperor foolishly believes that a wall can protect him from his enemies. A direct assault would be risky, but there are other ways to bypass a wall..."
@@ -262,7 +256,6 @@
  sakhalin_area:0 "Sakhalin"
  sakhalin_area_name:0 "Sakhalin"
  sakhalin_area_adj:0 "Sakhalin"
- evenk:0 "Evenk"
  # Manchuria Tags
  SOL:0 "Solon"
  SOL_ADJ:0 "Solon"

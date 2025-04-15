@@ -135,10 +135,6 @@
  PROV_ADJ4770:1 "Den Bosch"
  PROV4780:0 "Ohrid"
  PROV_ADJ4780:0 "Ohridan"
- # Cultures
- slovene:0 "Slovene"
- bosnian:0 "Bosnian"
- frisian:0 "Frisian"
  # Areas
  western_sicily_area:0 "Western Sicily"
  western_sicily_area_name:0 "West Sicily"
@@ -310,9 +306,6 @@
  OSN_ADJ:0 "Osnabrücker"
  COB:0 "Coburg"
  COB_ADJ:0 "Coburger"
- #Cultures
- sorbian:0 "Sorbian"
- lower_saxon:0 "Lower Saxon"
  # Perugia
  PGA:0 "Perugia"
  PGA_ADJ:0 "Perugian"

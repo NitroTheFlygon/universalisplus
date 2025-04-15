@@ -1,11 +1,10 @@
 #Dorpat
 
-owner = LIV
-controller = LIV
-add_core = LIV
-add_core = LTG
+owner = DRP
+controller = DRP
+add_core = DRP
 add_core = EST
-culture = estonian
+culture = voro
 religion = catholic
 hre = no
 base_tax = 3 
