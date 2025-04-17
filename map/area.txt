@@ -677,7 +677,7 @@ curonia_area = { #3
 }
 
 east_prussia_area = { #5
-	40 41 767 2958 42
+	40 41 767 2958 42 4951 4952
 }
 
 west_prussia_area = { #3 (South West Prussia)
@@ -729,7 +729,7 @@ kuyavia_area = {
 }
 
 samogitia_area = { #4
-	270 271 1936 4534 
+	270 271 1936 4534 4953
 }
 
 lithuania_area = { #5
