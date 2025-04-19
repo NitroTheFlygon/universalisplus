@@ -2,7 +2,7 @@
 
 owner = TEU
 controller = TEU
-culture = lithuanian
+culture = samogitian
 religion = catholic
 capital = "Memel"
 trade_goods = livestock

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = grand_duchy_reform
+government_rank = 1
+primary_culture = samogitian
+religion = catholic
+technology_group = eastern
+capital = 271
+
+1443.1.1 = {
+	monarch = {
+		name = "Mykolas Kęsgaila"
+		dynasty = Zadora
+		culture = lithuanian
+		birth_date = 1381.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
